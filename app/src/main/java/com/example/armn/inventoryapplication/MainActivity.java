@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         {
             adapter.add(c.getDescription());
         }
-
+//Subido
 
     // Cursor cursor = db.rawQuery("SELECT * FROM categories ORDER BY id", null);
     //  while (cursor.moveToNext()){
